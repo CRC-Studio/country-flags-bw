@@ -1,11 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16">
-<rect fill="#FFF" width="22" height="16"/>
-<g fill="#0065BD">
-<rect x="6" width="4" height="16"/>
-<rect y="6" width="22" height="4"/>
-</g>
-<g fill="#ED2939">
-<rect x="7" width="2" height="16"/>
-<rect y="7" width="22" height="2"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 22 16">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="st0" width="22" height="16"/>
+  <polygon points="22 6 10 6 10 0 6 0 6 6 0 6 0 10 6 10 6 16 10 16 10 10 22 10 22 6"/>
+  <g>
+    <rect class="st0" x="7" width="2" height="16"/>
+    <rect class="st0" y="7" width="22" height="2"/>
+  </g>
 </svg>

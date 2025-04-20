@@ -1,6 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 600">
-<rect width="700" height="600" fill="#0DB02B"/>
-<rect width="700" height="400" fill="#FFF"/>
-<rect width="700" height="200" fill="#e05206"/>
-<circle cx="350" cy="300" r="85" fill="#e05206"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 700 600">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect width="700" height="600"/>
+  <rect class="st0" width="700" height="400"/>
+  <rect width="700" height="200"/>
+  <circle cx="350" cy="300" r="85"/>
 </svg>

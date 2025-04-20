@@ -1,9 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-60 -40 120 80">
-<g fill="#E70013">
-<rect x="-60" y="-40" width="120" height="80"/>
-<circle fill="#FFF" r="20"/>
-<circle r="15"/>
-<circle fill="#FFF" cx="4" r="12"/>
-<path transform="translate(4)scale(9)rotate(-90)" d="M0,-1 L0.58779,0.80902 L-0.95106,-0.30902 L0.95106,-0.30902 L-0.58779,0.80902z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 120 80">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect width="120" height="80"/>
+  <circle class="st0" cx="60" cy="40" r="20"/>
+  <circle cx="60" cy="40" r="15"/>
+  <circle class="st0" cx="64" cy="40" r="12"/>
+  <path d="M55,40l16.3-5.3-10.1,13.8v-17.1l10.1,13.8-16.3-5.3Z"/>
 </svg>

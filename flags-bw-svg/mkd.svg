@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-140 -70 280 140" fill="#f8e92e"><path fill="#d82126" d="M-140-70h280V70h-280z"/><path d="M-140 14v-28l280 28v-28zm126-84h28L0-15zM14 70h-28L0 15zM-140-70h42L12.86 7.72zm0 140h42L12.86-7.72zM140-70H98L-12.86 7.72zm0 140H98L-12.86-7.72z"/><circle r="25" fill="#d82126"/><circle r="20"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 280 140">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path d="M0,0h280v140H0V0Z"/>
+  <path class="st0" d="M0,84v-28l280,28v-28L0,84ZM126,0h28l-14,55L126,0ZM154,140h-28l14-55,14,55ZM0,0h42l110.9,77.7L0,0ZM0,140h42l110.9-77.7L0,140ZM280,0h-42l-110.9,77.7L280,0ZM280,140h-42L127.1,62.3l152.9,77.7Z"/>
+  <circle cx="140" cy="70" r="25"/>
+  <circle class="st0" cx="140" cy="70" r="20"/>
+</svg>

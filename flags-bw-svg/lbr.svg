@@ -1,15 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 209 110">
-<rect fill="#bf0a30" width="209" height="110"/>
-<path d="M0,15H209 M0,35H209 M0,55H209 M0,75H209 M0,95H209" stroke="#fff" stroke-width="10"/>
-<rect fill="#002868" width="50" height="50"/>
-<g transform="translate(25,25) scale(15)">
-<g id="B">
-<polygon id="A" fill="#fff" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
-<use xlink:href="#A" transform="scale(-1,1)"/>
-</g>
-<use xlink:href="#B" transform="rotate(72)"/>
-<use xlink:href="#B" transform="rotate(-72)"/>
-<use xlink:href="#B" transform="rotate(144)"/>
-<use xlink:href="#B" transform="rotate(-144)"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 209 110">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        stroke: #fff;
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <rect width="209" height="110"/>
+  <path class="st1" d="M0,15h209M0,35h209M0,55h209M0,75h209M0,95h209"/>
+  <rect width="50" height="50"/>
+  <g>
+    <g id="B">
+      <polygon id="A" class="st0" points="25 10 20.4 24.3 27.5 26.6 25 10"/>
+      <polygon id="A1" data-name="A" class="st0" points="25 10 29.6 24.3 22.5 26.6 25 10"/>
+    </g>
+    <g id="B1" data-name="B">
+      <polygon id="A2" data-name="A" class="st0" points="39.3 20.4 24.3 20.4 24.3 27.9 39.3 20.4"/>
+      <polygon id="A3" data-name="A" class="st0" points="39.3 20.4 27.1 29.2 22.7 23.1 39.3 20.4"/>
+    </g>
+    <g id="B2" data-name="B">
+      <polygon id="A4" data-name="A" class="st0" points="10.7 20.4 22.9 29.2 27.3 23.1 10.7 20.4"/>
+      <polygon id="A5" data-name="A" class="st0" points="10.7 20.4 25.7 20.4 25.7 27.9 10.7 20.4"/>
+    </g>
+    <g id="B3" data-name="B">
+      <polygon id="A6" data-name="A" class="st0" points="33.8 37.1 29.2 22.9 22 25.2 33.8 37.1"/>
+      <polygon id="A7" data-name="A" class="st0" points="33.8 37.1 21.7 28.3 26.1 22.3 33.8 37.1"/>
+    </g>
+    <g id="B4" data-name="B">
+      <polygon id="A8" data-name="A" class="st0" points="16.2 37.1 28.3 28.3 23.9 22.3 16.2 37.1"/>
+      <polygon id="A9" data-name="A" class="st0" points="16.2 37.1 20.8 22.9 28 25.2 16.2 37.1"/>
+    </g>
+  </g>
 </svg>

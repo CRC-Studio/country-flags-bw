@@ -1,1 +1,105 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 200"><defs><g id="c"><clipPath id="a"><path d="M-109 104a104 104 0 000-208h218a104 104 0 000 208z"/></clipPath><path id="b" d="M-55 74a55 55 0 01110 0V-74a55 55 0 01-110 0z" clip-path="url(#a)"/><use xlink:href="#b" transform="rotate(90)"/></g></defs><path fill="#fff" d="M0 0h300v200H0z"/><path d="M130 0v80H0v40h130v80h40v-80h130V80H170V0h-40z" fill="red"/><use xlink:href="#c" transform="translate(64.45 39.45)" fill="red"/><use xlink:href="#c" transform="translate(235.55 160.55)" fill="red"/><use xlink:href="#c" transform="translate(235.55 39.45)" fill="red"/><use xlink:href="#c" transform="translate(64.45 160.55)" fill="red"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 200">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        clip-path: url(#clippath-6);
+      }
+
+      .st1 {
+        clip-path: url(#clippath-7);
+      }
+
+      .st2 {
+        clip-path: url(#clippath-4);
+      }
+
+      .st3 {
+        fill: #fff;
+      }
+
+      .st4 {
+        fill: none;
+      }
+
+      .st5 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st6 {
+        clip-path: url(#clippath-5);
+      }
+
+      .st7 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st8 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st9 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="st4" d="M-44.6,143.4c57.4,0,104-46.6,104-104S12.9-64.6-44.6-64.6h218c-57.4,0-104,46.6-104,104s46.6,104,104,104H-44.6Z"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <path class="st4" d="M-39.6-69.6C-39.6-12.1,7,34.4,64.4,34.4s104-46.6,104-104v218c0-57.4-46.6-104-104-104s-104,46.6-104,104V-69.6Z"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <path class="st4" d="M126.6,264.6c57.4,0,104-46.6,104-104s-46.6-104-104-104h218c-57.4,0-104,46.6-104,104s46.6,104,104,104H126.6Z"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <path class="st4" d="M131.6,51.6c0,57.4,46.6,104,104,104s104-46.6,104-104v218c0-57.4-46.6-104-104-104s-104,46.6-104,104V51.6Z"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <path class="st4" d="M126.6,143.4c57.4,0,104-46.6,104-104s-46.6-104-104-104h218c-57.4,0-104,46.6-104,104s46.6,104,104,104H126.6Z"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <path class="st4" d="M131.6-69.6c0,57.4,46.6,104,104,104s104-46.6,104-104v218c0-57.4-46.6-104-104-104s-104,46.6-104,104V-69.6Z"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <path class="st4" d="M-44.6,264.6c57.4,0,104-46.6,104-104S12.9,56.6-44.6,56.6h218c-57.4,0-104,46.6-104,104s46.6,104,104,104H-44.6Z"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <path class="st4" d="M-39.6,51.6c0,57.4,46.6,104,104,104s104-46.6,104-104v218c0-57.4-46.6-104-104-104s-104,46.6-104,104V51.6Z"/>
+    </clipPath>
+  </defs>
+  <path class="st3" d="M0,0h300v200H0V0Z"/>
+  <path d="M130,0v80H0v40h130v80h40v-80h130v-40h-130V0h-40Z"/>
+  <g id="c">
+    <g class="st9">
+      <path id="b" d="M9.4,113.4c0-30.4,24.6-55,55-55s55,24.6,55,55V-34.6c0,30.4-24.6,55-55,55S9.4-4.2,9.4-34.6V113.4Z"/>
+    </g>
+    <g class="st5">
+      <path id="b1" data-name="b" d="M-9.6-15.6c30.4,0,55,24.6,55,55s-24.6,55-55,55h148c-30.4,0-55-24.6-55-55s24.6-55,55-55H-9.6Z"/>
+    </g>
+  </g>
+  <g id="c1" data-name="c">
+    <g class="st8">
+      <path id="b2" data-name="b" d="M180.6,234.6c0-30.4,24.6-55,55-55s55,24.6,55,55V86.6c0,30.4-24.6,55-55,55s-55-24.6-55-55v148Z"/>
+    </g>
+    <g class="st7">
+      <path id="b3" data-name="b" d="M161.6,105.6c30.4,0,55,24.6,55,55s-24.6,55-55,55h148c-30.4,0-55-24.6-55-55s24.6-55,55-55h-148Z"/>
+    </g>
+  </g>
+  <g id="c2" data-name="c">
+    <g class="st2">
+      <path id="b4" data-name="b" d="M180.6,113.4c0-30.4,24.6-55,55-55s55,24.6,55,55V-34.6c0,30.4-24.6,55-55,55s-55-24.6-55-55V113.4Z"/>
+    </g>
+    <g class="st6">
+      <path id="b5" data-name="b" d="M161.6-15.6c30.4,0,55,24.6,55,55s-24.6,55-55,55h148c-30.4,0-55-24.6-55-55s24.6-55,55-55h-148Z"/>
+    </g>
+  </g>
+  <g id="c3" data-name="c">
+    <g class="st0">
+      <path id="b6" data-name="b" d="M9.4,234.6c0-30.4,24.6-55,55-55s55,24.6,55,55V86.6c0,30.4-24.6,55-55,55S9.4,116.9,9.4,86.6v148Z"/>
+    </g>
+    <g class="st1">
+      <path id="b7" data-name="b" d="M-9.6,105.6c30.4,0,55,24.6,55,55s-24.6,55-55,55h148c-30.4,0-55-24.6-55-55s24.6-55,55-55H-9.6Z"/>
+    </g>
+  </g>
+</svg>
