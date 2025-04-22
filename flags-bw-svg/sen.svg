@@ -1,1 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 600"><path fill="#00853f" d="M0 0h300v600H0z"/><path fill="#fdef42" d="M300 0h300v600H300z"/><path fill="#e31b23" d="M600 0h300v600H600z"/><g transform="translate(450 300)" fill="#00853f"><g id="b"><path id="a" d="M0-100V0h50z" transform="rotate(18 0 -100)"/><use xlink:href="#a" transform="scale(-1 1)"/></g><use xlink:href="#b" transform="rotate(72)"/><use xlink:href="#b" transform="rotate(144)"/><use xlink:href="#b" transform="rotate(216)"/><use xlink:href="#b" transform="rotate(288)"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 900 600">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path d="M0,0h300v600H0V0Z"/>
+  <path class="st0" d="M300,0h300v600h-300V0Z"/>
+  <path d="M600,0h300v600h-300V0Z"/>
+  <g>
+    <g id="b">
+      <path id="a" d="M450,200l-30.9,95.1,47.6,15.5-16.7-110.6Z"/>
+      <path id="a1" data-name="a" d="M450,200l30.9,95.1-47.6,15.5,16.7-110.6Z"/>
+    </g>
+    <g id="b1" data-name="b">
+      <path id="a2" data-name="a" d="M545.1,269.1h-100v50l100-50Z"/>
+      <path id="a3" data-name="a" d="M545.1,269.1l-80.9,58.8-29.4-40.5,110.3-18.3Z"/>
+    </g>
+    <g id="b2" data-name="b">
+      <path id="a4" data-name="a" d="M508.8,380.9l-30.9-95.1-47.6,15.5,78.5,79.7Z"/>
+      <path id="a5" data-name="a" d="M508.8,380.9l-80.9-58.8,29.4-40.5,51.5,99.2Z"/>
+    </g>
+    <g id="b3" data-name="b">
+      <path id="a6" data-name="a" d="M391.2,380.9l80.9-58.8-29.4-40.5-51.5,99.2Z"/>
+      <path id="a7" data-name="a" d="M391.2,380.9l30.9-95.1,47.6,15.5-78.5,79.7Z"/>
+    </g>
+    <g id="b4" data-name="b">
+      <path id="a8" data-name="a" d="M354.9,269.1l80.9,58.8,29.4-40.5-110.3-18.3Z"/>
+      <path id="a9" data-name="a" d="M354.9,269.1h100v50l-100-50Z"/>
+    </g>
+  </g>
+</svg>

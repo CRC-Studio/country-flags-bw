@@ -1,33 +1,81 @@
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="-17.582 -4.664 71.571 87.246">
-<title>Flag of Nepal</title>
-<desc>Coding according to the official construction in "Constitution of the Kingdom of Nepal, Article 5, Shedule 1", adopted in November 1990</desc>
-<use xlink:href="#b" stroke="#003893" stroke-width="5.1646754223"/>
-<path id="b" d="M -15,37.5735931288 h 60 L -15,0 v 80 h 60 L -15,20 z" fill="#DC143C"/>
-<g fill="#fff">
-<path d="M -11.9502769431,23.4834957055 A 12.8400974233,12.8400974233 0 0,0 11.9502769431,23.4834957055 A 11.9502769431 11.9502769431 0 0,1 -11.9502769431,23.4834957055"/>
-<g transform="translate(0,29.0445562765) scale(5.5610605710)">
-<circle r="1"/>
-<g id="jags6">
-<g id="jags3">
-<path id="jag" d="M 0.195090322016,-0.980785280403 L 0,-1.388784109750 L -0.195090322016,-0.980785280403" transform="rotate(11.25)"/>
-<use xlink:href="#jag" transform="rotate(22.5)"/>
-<use xlink:href="#jag" transform="rotate(45)"/>
-</g>
-<use xlink:href="#jags3" transform="rotate(67.5)"/>
-</g>
-<use xlink:href="#jags6" transform="scale(-1, 1)"/>
-</g>
-<g transform="translate(0,58.7867965644) scale(8.1433982822)">
-<circle r="1"/>
-<g id="rays4">
-<g id="rays2">
-<path id="ray" d="M 0.258819045103,0.965925826289 L 0,1.576749285537 L -0.258819045103,0.965925826289"/>
-<use xlink:href="#ray" transform="rotate(180)"/>
-</g>
-<use xlink:href="#rays2" transform="rotate(90)"/>
-</g>
-<use xlink:href="#rays4" transform="rotate(30)"/>
-<use xlink:href="#rays4" transform="rotate(60)"/>
-</g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 71.6 87.2">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #fff;
+      }
+
+      .st1 {
+        stroke: #fff;
+        stroke-width: 5.2px;
+      }
+    </style>
+  </defs>
+  <path id="b" class="st1" d="M2.6,42.2h60L2.6,4.7v80h60L2.6,24.7v17.6Z"/>
+  <path id="b1" data-name="b" d="M2.6,42.2h60L2.6,4.7v80h60L2.6,24.7v17.6Z"/>
+  <g>
+    <path class="st0" d="M5.6,28.1c2.6,6.6,10,9.8,16.6,7.3,3.3-1.3,5.9-3.9,7.3-7.3,0,6.6-5.4,12-12,12s-12-5.4-12-12"/>
+    <g>
+      <circle class="st0" cx="17.6" cy="33.7" r="5.6"/>
+      <g id="jags6">
+        <g id="jags3">
+          <path id="jag" class="st0" d="M19.7,28.6l-.6-2.4-1.5,2"/>
+          <path id="jag1" data-name="jag" class="st0" d="M21.5,29.8l.4-2.5-2.2,1.3"/>
+          <path id="jag2" data-name="jag" class="st0" d="M22.7,31.6l1.3-2.2-2.5.4"/>
+        </g>
+        <g id="jags31" data-name="jags3">
+          <path id="jag3" data-name="jag" class="st0" d="M23.1,33.7l2-1.5-2.4-.6"/>
+          <path id="jag4" data-name="jag" class="st0" d="M22.7,35.8l2.4-.6-2-1.5"/>
+          <path id="jag5" data-name="jag" class="st0" d="M21.5,37.6l2.5.4-1.3-2.2"/>
+        </g>
+      </g>
+      <g id="jags61" data-name="jags6">
+        <g id="jags32" data-name="jags3">
+          <path id="jag6" data-name="jag" class="st0" d="M15.5,28.6l.6-2.4,1.5,2"/>
+          <path id="jag7" data-name="jag" class="st0" d="M13.6,29.8l-.4-2.5,2.2,1.3"/>
+          <path id="jag8" data-name="jag" class="st0" d="M12.4,31.6l-1.3-2.2,2.5.4"/>
+        </g>
+        <g id="jags33" data-name="jags3">
+          <path id="jag9" data-name="jag" class="st0" d="M12,33.7l-2-1.5,2.4-.6"/>
+          <path id="jag10" data-name="jag" class="st0" d="M12.4,35.8l-2.4-.6,2-1.5"/>
+          <path id="jag11" data-name="jag" class="st0" d="M13.6,37.6l-2.5.4,1.3-2.2"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <circle class="st0" cx="17.6" cy="63.5" r="8.1"/>
+      <g id="rays4">
+        <g id="rays2">
+          <path id="ray" class="st0" d="M19.7,71.3l-2.1,5-2.1-5"/>
+          <path id="ray1" data-name="ray" class="st0" d="M15.5,55.6l2.1-5,2.1,5"/>
+        </g>
+        <g id="rays21" data-name="rays2">
+          <path id="ray2" data-name="ray" class="st0" d="M9.7,65.6l-5-2.1,5-2.1"/>
+          <path id="ray3" data-name="ray" class="st0" d="M25.4,61.3l5,2.1-5,2.1"/>
+        </g>
+      </g>
+      <g id="rays41" data-name="rays4">
+        <g id="rays22" data-name="rays2">
+          <path id="ray4" data-name="ray" class="st0" d="M15.5,71.3l-4.3,3.3.7-5.4"/>
+          <path id="ray5" data-name="ray" class="st0" d="M19.7,55.6l4.3-3.3-.7,5.4"/>
+        </g>
+        <g id="rays23" data-name="rays2">
+          <path id="ray6" data-name="ray" class="st0" d="M9.7,61.3l-3.3-4.3,5.4.7"/>
+          <path id="ray7" data-name="ray" class="st0" d="M25.4,65.6l3.3,4.3-5.4-.7"/>
+        </g>
+      </g>
+      <g id="rays42" data-name="rays4">
+        <g id="rays24" data-name="rays2">
+          <path id="ray8" data-name="ray" class="st0" d="M11.8,69.2l-5.4.7,3.3-4.3"/>
+          <path id="ray9" data-name="ray" class="st0" d="M23.3,57.7l5.4-.7-3.3,4.3"/>
+        </g>
+        <g id="rays25" data-name="rays2">
+          <path id="ray10" data-name="ray" class="st0" d="M11.8,57.7l-.7-5.4,4.3,3.3"/>
+          <path id="ray11" data-name="ray" class="st0" d="M23.3,69.2l.7,5.4-4.3-3.3"/>
+        </g>
+      </g>
+    </g>
+  </g>
 </svg>

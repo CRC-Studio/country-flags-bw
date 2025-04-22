@@ -1,1 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 809 500"><path fill="#006a4e" d="M0 0h809v500H0z"/><path fill="#ffce00" d="M0 100h809v100H0zm0 200h809v100H0z"/><path fill="#d21034" d="M0 0h300v300H0z"/><g transform="translate(150 150)" fill="#fff"><g id="b"><path id="a" d="M0-95V0h50" transform="rotate(18 0 -95)"/><use xlink:href="#a" transform="scale(-1 1)"/></g><use xlink:href="#b" transform="rotate(72)"/><use xlink:href="#b" transform="rotate(144)"/><use xlink:href="#b" transform="rotate(216)"/><use xlink:href="#b" transform="rotate(288)"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 809 500">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path d="M0,0h809v500H0V0Z"/>
+  <path class="st0" d="M0,100h809v100H0v-100ZM0,300h809v100H0v-100Z"/>
+  <path d="M0,0h300v300H0V0Z"/>
+  <g>
+    <g id="b">
+      <path id="a" class="st0" d="M150,55l-29.4,90.4,47.6,15.5"/>
+      <path id="a1" data-name="a" class="st0" d="M150,55l29.4,90.4-47.6,15.5"/>
+    </g>
+    <g id="b1" data-name="b">
+      <path id="a2" data-name="a" class="st0" d="M240.4,120.6h-95v50"/>
+      <path id="a3" data-name="a" class="st0" d="M240.4,120.6l-76.9,55.8-29.4-40.5"/>
+    </g>
+    <g id="b2" data-name="b">
+      <path id="a4" data-name="a" class="st0" d="M205.8,226.9l-29.4-90.4-47.6,15.5"/>
+      <path id="a5" data-name="a" class="st0" d="M205.8,226.9l-76.9-55.8,29.4-40.5"/>
+    </g>
+    <g id="b3" data-name="b">
+      <path id="a6" data-name="a" class="st0" d="M94.2,226.9l76.9-55.8-29.4-40.5"/>
+      <path id="a7" data-name="a" class="st0" d="M94.2,226.9l29.4-90.4,47.6,15.5"/>
+    </g>
+    <g id="b4" data-name="b">
+      <path id="a8" data-name="a" class="st0" d="M59.6,120.6l76.9,55.8,29.4-40.5"/>
+      <path id="a9" data-name="a" class="st0" d="M59.6,120.6h95v50"/>
+    </g>
+  </g>
+</svg>

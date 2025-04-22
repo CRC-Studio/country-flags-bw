@@ -1,1 +1,22 @@
-<svg viewBox="0 0 1260 630" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M1260 0H0v630h1260z" fill="#0d3b99"/><path d="M1260 210H0v210h1260z" fill="#fff"/><path id="a" d="M630 280l20.572 63.315-53.859-39.131h66.573l-53.859 39.131z" fill="#0d3b99"/><g id="b"><use transform="translate(-175 -52.465)" xlink:href="#a"/><use transform="translate(-175 52.534)" xlink:href="#a"/></g><use transform="translate(350)" xlink:href="#b"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1260 630">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path d="M1260,0H0v630h1260V0Z"/>
+  <path class="st0" d="M1260,210H0v210h1260v-210Z"/>
+  <path id="a" d="M630,280l20.6,63.3-53.9-39.1h66.6l-53.9,39.1,20.6-63.3Z"/>
+  <g id="b">
+    <path id="a1" data-name="a" d="M455,227.5l20.6,63.3-53.9-39.1h66.6l-53.9,39.1,20.6-63.3Z"/>
+    <path id="a2" data-name="a" d="M455,332.5l20.6,63.3-53.9-39.1h66.6l-53.9,39.1,20.6-63.3Z"/>
+  </g>
+  <g id="b1" data-name="b">
+    <path id="a3" data-name="a" d="M805,227.5l20.6,63.3-53.9-39.1h66.6l-53.9,39.1,20.6-63.3Z"/>
+    <path id="a4" data-name="a" d="M805,332.5l20.6,63.3-53.9-39.1h66.6l-53.9,39.1,20.6-63.3Z"/>
+  </g>
+</svg>

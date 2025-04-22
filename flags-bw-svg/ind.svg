@@ -1,1 +1,157 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 600"><path fill="#f93" d="M0 0h900v200H0z"/><path fill="#fff" d="M0 200h900v200H0z"/><path fill="#128807" d="M0 400h900v200H0z"/><g transform="translate(450 300)"><circle r="92.5" fill="#008"/><circle r="80" fill="#fff"/><circle r="16" fill="#008"/><g id="d"><g id="c"><g id="b"><g id="a" fill="#008"><circle r="3.5" transform="rotate(7.5 -40 610.282)"/><path d="m0 80 3-48-2-16.031V15h-2v.969L-3 32l3 48z"/></g><use xlink:href="#a" transform="rotate(15)"/></g><use xlink:href="#b" transform="rotate(30)"/></g><use xlink:href="#c" transform="rotate(60)"/></g><use xlink:href="#d" transform="rotate(120)"/><use xlink:href="#d" transform="rotate(-120)"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 900 600">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path d="M0,0h900v200H0V0Z"/>
+  <path class="st0" d="M0,200h900v200H0v-200Z"/>
+  <path d="M0,400h900v200H0v-200Z"/>
+  <g>
+    <circle cx="450" cy="300" r="92.5"/>
+    <circle class="st0" cx="450" cy="300" r="80"/>
+    <circle cx="450" cy="300" r="16"/>
+    <g id="d">
+      <g id="c">
+        <g id="b">
+          <g id="a">
+            <circle cx="529.3" cy="310.4" r="3.5"/>
+            <path d="M450,380l3-48-2-16v-1h-2v1l-2,16,3,48Z"/>
+          </g>
+          <g id="a1" data-name="a">
+            <circle cx="523.9" cy="330.6" r="3.5"/>
+            <path d="M429.3,377.3l15.3-45.6,2.2-16,.3-.9-1.9-.5-.3.9-6.1,15-9.5,47.1Z"/>
+          </g>
+        </g>
+        <g id="b1" data-name="b">
+          <g id="a2" data-name="a">
+            <circle cx="513.5" cy="348.7" r="3.5"/>
+            <path d="M410,369.3l26.6-40.1,6.3-14.9.5-.8-1.7-1-.5.8-9.7,12.9-21.4,43.1Z"/>
+          </g>
+          <g id="a3" data-name="a">
+            <circle cx="498.7" cy="363.5" r="3.5"/>
+            <path d="M393.4,356.6l36.1-31.8,9.9-12.7.7-.7-1.4-1.4-.7.7-12.7,9.9-31.8,36.1Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="c1" data-name="c">
+        <g id="b2" data-name="b">
+          <g id="a4" data-name="a">
+            <circle cx="480.6" cy="373.9" r="3.5"/>
+            <path d="M380.7,340l43.1-21.4,12.9-9.7.8-.5-1-1.7-.8.5-14.9,6.3-40.1,26.6Z"/>
+          </g>
+          <g id="a5" data-name="a">
+            <circle cx="460.4" cy="379.3" r="3.5"/>
+            <path d="M372.7,320.7l47.1-9.5,15-6.1.9-.3-.5-1.9-.9.3-16,2.2-45.6,15.3Z"/>
+          </g>
+        </g>
+        <g id="b3" data-name="b">
+          <g id="a6" data-name="a">
+            <circle cx="439.6" cy="379.3" r="3.5"/>
+            <path d="M370,300l48,3,16-2h1v-2h-1l-16-2-48,3Z"/>
+          </g>
+          <g id="a7" data-name="a">
+            <circle cx="419.4" cy="373.9" r="3.5"/>
+            <path d="M372.7,279.3l45.6,15.3,16,2.2.9.3.5-1.9-.9-.3-15-6.1-47.1-9.5Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="d1" data-name="d">
+      <g id="c2" data-name="c">
+        <g id="b4" data-name="b">
+          <g id="a8" data-name="a">
+            <circle cx="401.3" cy="363.5" r="3.5"/>
+            <path d="M380.7,260l40.1,26.6,14.9,6.3.8.5,1-1.7-.8-.5-12.9-9.7-43.1-21.4Z"/>
+          </g>
+          <g id="a9" data-name="a">
+            <circle cx="386.5" cy="348.7" r="3.5"/>
+            <path d="M393.4,243.4l31.8,36.1,12.7,9.9.7.7,1.4-1.4-.7-.7-9.9-12.7-36.1-31.8Z"/>
+          </g>
+        </g>
+        <g id="b5" data-name="b">
+          <g id="a10" data-name="a">
+            <circle cx="376.1" cy="330.6" r="3.5"/>
+            <path d="M410,230.7l21.4,43.1,9.7,12.9.5.8,1.7-1-.5-.8-6.3-14.9-26.6-40.1Z"/>
+          </g>
+          <g id="a11" data-name="a">
+            <circle cx="370.7" cy="310.4" r="3.5"/>
+            <path d="M429.3,222.7l9.5,47.1,6.1,15,.3.9,1.9-.5-.3-.9-2.2-16-15.3-45.6Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="c3" data-name="c">
+        <g id="b6" data-name="b">
+          <g id="a12" data-name="a">
+            <circle cx="370.7" cy="289.6" r="3.5"/>
+            <path d="M450,220l-3,48,2,16v1h2v-1l2-16-3-48Z"/>
+          </g>
+          <g id="a13" data-name="a">
+            <circle cx="376.1" cy="269.4" r="3.5"/>
+            <path d="M470.7,222.7l-15.3,45.6-2.2,16-.3.9,1.9.5.3-.9,6.1-15,9.5-47.1Z"/>
+          </g>
+        </g>
+        <g id="b7" data-name="b">
+          <g id="a14" data-name="a">
+            <circle cx="386.5" cy="251.3" r="3.5"/>
+            <path d="M490,230.7l-26.6,40.1-6.3,14.9-.5.8,1.7,1,.5-.8,9.7-12.9,21.4-43.1Z"/>
+          </g>
+          <g id="a15" data-name="a">
+            <circle cx="401.3" cy="236.5" r="3.5"/>
+            <path d="M506.6,243.4l-36.1,31.8-9.9,12.7-.7.7,1.4,1.4.7-.7,12.7-9.9,31.8-36.1Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="d2" data-name="d">
+      <g id="c4" data-name="c">
+        <g id="b8" data-name="b">
+          <g id="a16" data-name="a">
+            <circle cx="419.4" cy="226.1" r="3.5"/>
+            <path d="M519.3,260l-43.1,21.4-12.9,9.7-.8.5,1,1.7.8-.5,14.9-6.3,40.1-26.6Z"/>
+          </g>
+          <g id="a17" data-name="a">
+            <circle cx="439.6" cy="220.7" r="3.5"/>
+            <path d="M527.3,279.3l-47.1,9.5-15,6.1-.9.3.5,1.9.9-.3,16-2.2,45.6-15.3Z"/>
+          </g>
+        </g>
+        <g id="b9" data-name="b">
+          <g id="a18" data-name="a">
+            <circle cx="460.4" cy="220.7" r="3.5"/>
+            <path d="M530,300l-48-3-16,2h-1v2h1l16,2,48-3Z"/>
+          </g>
+          <g id="a19" data-name="a">
+            <circle cx="480.6" cy="226.1" r="3.5"/>
+            <path d="M527.3,320.7l-45.6-15.3-16-2.2-.9-.3-.5,1.9.9.3,15,6.1,47.1,9.5Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="c5" data-name="c">
+        <g id="b10" data-name="b">
+          <g id="a20" data-name="a">
+            <circle cx="498.7" cy="236.5" r="3.5"/>
+            <path d="M519.3,340l-40.1-26.6-14.9-6.3-.8-.5-1,1.7.8.5,12.9,9.7,43.1,21.4Z"/>
+          </g>
+          <g id="a21" data-name="a">
+            <circle cx="513.5" cy="251.3" r="3.5"/>
+            <path d="M506.6,356.6l-31.8-36.1-12.7-9.9-.7-.7-1.4,1.4.7.7,9.9,12.7,36.1,31.8Z"/>
+          </g>
+        </g>
+        <g id="b11" data-name="b">
+          <g id="a22" data-name="a">
+            <circle cx="523.9" cy="269.4" r="3.5"/>
+            <path d="M490,369.3l-21.4-43.1-9.7-12.9-.5-.8-1.7,1,.5.8,6.3,14.9,26.6,40.1Z"/>
+          </g>
+          <g id="a23" data-name="a">
+            <circle cx="529.3" cy="289.6" r="3.5"/>
+            <path d="M470.7,377.3l-9.5-47.1-6.1-15-.3-.9-1.9.5.3.9,2.2,16,15.3,45.6Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

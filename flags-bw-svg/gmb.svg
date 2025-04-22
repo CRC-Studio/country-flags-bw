@@ -1,7 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 18">
-<title>Flag of The Gambia</title>
-<path d="m0,0h27v18H0" fill="#3A7728"/>
-<path d="m0,0h27v11H0" fill="#0C1C8C"/>
-<path d="m0,0h27v6H0" fill="#CE1126"/>
-<path d="m0,6.5h27m0,5H0" stroke="#FFF"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 27 18">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <path d="M0,0h27v18H0"/>
+  <path d="M0,0h27v11H0"/>
+  <path d="M0,0h27v6H0"/>
+  <path class="st0" d="M0,6.5h27M27,11.5H0"/>
 </svg>

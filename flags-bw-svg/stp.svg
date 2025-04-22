@@ -1,1 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2800 1400"><path fill="#12ad2b" d="M0 0h2800v1400H0z"/><path fill="#ffce00" d="M0 400h2800v600H0z"/><path d="M0 0v1400l700-700" fill="#d21034"/><g id="c" transform="translate(1400 700)" fill="#000"><g id="b"><path id="a" d="M0-200V0h100" transform="rotate(18 0 -200)"/><use xlink:href="#a" transform="scale(-1 1)"/></g><use xlink:href="#b" transform="rotate(72)"/><use xlink:href="#b" transform="rotate(144)"/><use xlink:href="#b" transform="rotate(216)"/><use xlink:href="#b" transform="rotate(288)"/></g><use xlink:href="#c" x="700"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2800 1400">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path d="M0,0h2800v1400H0V0Z"/>
+  <path class="st0" d="M0,400h2800v600H0V400Z"/>
+  <path d="M0,0v1400l700-700"/>
+  <g id="c">
+    <g id="b">
+      <path id="a" d="M1400,500l-61.8,190.2,95.1,30.9"/>
+      <path id="a1" data-name="a" d="M1400,500l61.8,190.2-95.1,30.9"/>
+    </g>
+    <g id="b1" data-name="b">
+      <path id="a2" data-name="a" d="M1590.2,638.2h-200v100"/>
+      <path id="a3" data-name="a" d="M1590.2,638.2l-161.8,117.6-58.8-80.9"/>
+    </g>
+    <g id="b2" data-name="b">
+      <path id="a4" data-name="a" d="M1517.6,861.8l-61.8-190.2-95.1,30.9"/>
+      <path id="a5" data-name="a" d="M1517.6,861.8l-161.8-117.6,58.8-80.9"/>
+    </g>
+    <g id="b3" data-name="b">
+      <path id="a6" data-name="a" d="M1282.4,861.8l161.8-117.6-58.8-80.9"/>
+      <path id="a7" data-name="a" d="M1282.4,861.8l61.8-190.2,95.1,30.9"/>
+    </g>
+    <g id="b4" data-name="b">
+      <path id="a8" data-name="a" d="M1209.8,638.2l161.8,117.6,58.8-80.9"/>
+      <path id="a9" data-name="a" d="M1209.8,638.2h200v100"/>
+    </g>
+  </g>
+  <g id="c1" data-name="c">
+    <g id="b5" data-name="b">
+      <path id="a10" data-name="a" d="M2100,500l-61.8,190.2,95.1,30.9"/>
+      <path id="a11" data-name="a" d="M2100,500l61.8,190.2-95.1,30.9"/>
+    </g>
+    <g id="b6" data-name="b">
+      <path id="a12" data-name="a" d="M2290.2,638.2h-200v100"/>
+      <path id="a13" data-name="a" d="M2290.2,638.2l-161.8,117.6-58.8-80.9"/>
+    </g>
+    <g id="b7" data-name="b">
+      <path id="a14" data-name="a" d="M2217.6,861.8l-61.8-190.2-95.1,30.9"/>
+      <path id="a15" data-name="a" d="M2217.6,861.8l-161.8-117.6,58.8-80.9"/>
+    </g>
+    <g id="b8" data-name="b">
+      <path id="a16" data-name="a" d="M1982.4,861.8l161.8-117.6-58.8-80.9"/>
+      <path id="a17" data-name="a" d="M1982.4,861.8l61.8-190.2,95.1,30.9"/>
+    </g>
+    <g id="b9" data-name="b">
+      <path id="a18" data-name="a" d="M1909.8,638.2l161.8,117.6,58.8-80.9"/>
+      <path id="a19" data-name="a" d="M1909.8,638.2h200v100"/>
+    </g>
+  </g>
+</svg>
