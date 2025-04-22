@@ -1,1 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 720 360"><path fill="#da121a" d="M0 0h720v360H0z"/><path fill="#fcdd09" d="M0 0h720v240H0z"/><path fill="#078930" d="M0 0h720v120H0z"/><g transform="translate(360 180)"><circle fill="#0f47af" r="120"/><g id="a"><path fill="#fcdd09" d="M0-96l-4.206 12.944 17.348 53.39h-23.13l-2.599 8h74.163l11.011-8H21.553z"/><path stroke="#fcdd09" stroke-width="4" d="M25.863-35.597l30.564-42.069"/></g><use xlink:href="#a" transform="rotate(72)"/><use xlink:href="#a" transform="rotate(144)"/><use xlink:href="#a" transform="rotate(216)"/><use xlink:href="#a" transform="rotate(288)"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 720 360">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path d="M0,0h720v360H0V0Z"/>
+  <path class="st0" d="M0,0h720v240H0V0Z"/>
+  <path d="M0,0h720v120H0V0Z"/>
+  <g>
+    <circle cx="360" cy="180" r="120"/>
+    <g id="a">
+      <path class="st0" d="M360,84l-4.2,12.9,17.3,53.4h-23.1l-2.6,8h74.2l11-8h-51l-21.6-66.3Z"/>
+      <g>
+        <path class="st0" d="M385.9,144.4l30.6-42.1"/>
+        <rect class="st0" x="375.1" y="121.4" width="52" height="4" transform="translate(65.6 375.4) rotate(-54)"/>
+      </g>
+    </g>
+    <g id="a1" data-name="a">
+      <path class="st0" d="M451.3,150.3h-13.6s-45.4,33-45.4,33l-7.1-22h-8.4s22.9,70.5,22.9,70.5l11,8-15.8-48.5,56.4-41Z"/>
+      <g>
+        <path class="st0" d="M401.8,193.6l49.5,16.1"/>
+        <rect class="st0" x="424.6" y="175.6" width="4" height="52" transform="translate(103 545) rotate(-72)"/>
+      </g>
+    </g>
+    <g id="a2" data-name="a">
+      <path class="st0" d="M416.4,257.7l-4.2-12.9-45.4-33,18.7-13.6-2.6-8-60,43.6-4.2,12.9,41.3-30,56.4,41Z"/>
+      <g>
+        <path class="st0" d="M360,224v52"/>
+        <rect class="st0" x="358" y="224" width="4" height="52"/>
+      </g>
+    </g>
+    <g id="a3" data-name="a">
+      <path class="st0" d="M303.6,257.7l11-8,17.3-53.4,18.7,13.6,6.8-4.9-60-43.6h-13.6s41.3,30,41.3,30l-21.6,66.3Z"/>
+      <g>
+        <path class="st0" d="M318.2,193.6l-49.5,16.1"/>
+        <rect class="st0" x="267.4" y="199.6" width="52" height="4" transform="translate(-47.9 100.6) rotate(-18)"/>
+      </g>
+    </g>
+    <g id="a4" data-name="a">
+      <path class="st0" d="M268.7,150.3l11,8h56.1s-7.1,22-7.1,22l6.8,4.9,22.9-70.5-4.2-12.9-15.8,48.5h-69.7Z"/>
+      <g>
+        <path class="st0" d="M334.1,144.4l-30.6-42.1"/>
+        <rect class="st0" x="316.9" y="97.4" width="4" height="52" transform="translate(-11.6 211) rotate(-36)"/>
+      </g>
+    </g>
+  </g>
+</svg>

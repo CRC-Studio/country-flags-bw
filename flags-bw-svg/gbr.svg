@@ -1,1 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30"><clipPath id="a"><path d="M0 0v30h60V0z"/></clipPath><clipPath id="b"><path d="M30 15h30v15zv15H0zH0V0zV0h30z"/></clipPath><g clip-path="url(#a)"><path d="M0 0v30h60V0z" fill="#012169"/><path d="M0 0l60 30m0-30L0 30" stroke="#fff" stroke-width="6"/><path d="M0 0l60 30m0-30L0 30" clip-path="url(#b)" stroke="#C8102E" stroke-width="4"/><path d="M30 0v30M0 15h60" stroke="#fff" stroke-width="10"/><path d="M30 0v30M0 15h60" stroke="#C8102E" stroke-width="6"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 60 30">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        stroke: #fff;
+      }
+
+      .st0, .st2 {
+        stroke-width: 6px;
+      }
+
+      .st3 {
+        fill: none;
+      }
+
+      .st1 {
+        stroke-width: 10px;
+      }
+
+      .st4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st5 {
+        stroke-width: 4px;
+      }
+
+      .st5, .st2 {
+        stroke: #000;
+      }
+
+      .st6 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st3" width="60" height="30"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="st3" points="30 15 60 15 60 30 30 30 0 30 0 15 0 0 30 0 60 0 30 15"/>
+    </clipPath>
+  </defs>
+  <g class="st6">
+    <g>
+      <path d="M0,0v30h60V0H0Z"/>
+      <path class="st0" d="M0,0l60,30M60,0L0,30"/>
+      <g class="st4">
+        <path class="st5" d="M0,0l60,30M60,0L0,30"/>
+      </g>
+      <path class="st1" d="M30,0v30M0,15h60"/>
+      <path class="st2" d="M30,0v30M0,15h60"/>
+    </g>
+  </g>
+</svg>

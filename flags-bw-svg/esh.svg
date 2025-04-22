@@ -1,9 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
-<rect width="600" height="150" fill="#000"/>
-<rect y="150" width="600" height="150" fill="#007a3d"/>
-<rect y="100" width="600" height="100" fill="#fff"/>
-<path d="M 0,0 200,150 0,300 z" fill="#c4111b"/>
-<circle cx="300" cy="150" r="40" fill="#c4111b"/>
-<circle cx="315" cy="150" r="40" fill="#fff"/>
-<path d="m 289.26294,174.2204 17.05633,-12.19273 16.92296,12.37709 -6.32527,-19.98928 17.00081,-12.26999 -20.96556,-0.16131 -6.41591,-19.96036 -6.63215,19.88957 -20.96606,-0.0661 16.86669,12.45373 -6.54184,19.91946 z" fill="#c4111b"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 600 300">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect width="600" height="150"/>
+  <rect y="150" width="600" height="150"/>
+  <rect class="st0" y="100" width="600" height="100"/>
+  <path d="M0,0l200,150L0,300V0Z"/>
+  <circle cx="300" cy="150" r="40"/>
+  <circle class="st0" cx="315" cy="150" r="40"/>
+  <path d="M289.3,174.2l17.1-12.2,16.9,12.4-6.3-20,17-12.3-21-.2-6.4-20-6.6,19.9h-21c0,0,16.9,12.4,16.9,12.4l-6.5,19.9h0Z"/>
 </svg>

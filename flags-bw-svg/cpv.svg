@@ -1,24 +1,246 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 300">
-<rect width="510" height="300" fill="#003893"/>
-<rect width="510" height="75" y="150" fill="#fff"/>
-<rect width="510" height="25" y="175" fill="#cf2027"/>
-<g fill="#f7d116" transform="translate(191.25,187.5)">
-<g id="s2">
-<g id="s" transform="translate(0,-75)">
-<g id="c">
-<path id="t" d="M0,-15V0H7.5" transform="rotate(18,0,-15)"/>
-<use xlink:href="#t" transform="scale(-1,1)"/>
-</g>
-<use xlink:href="#c" transform="rotate(72)"/>
-<use xlink:href="#c" transform="rotate(144)"/>
-<use xlink:href="#c" transform="rotate(216)"/>
-<use xlink:href="#c" transform="rotate(288)"/>
-</g>
-<use xlink:href="#s" y="150"/>
-</g>
-<use xlink:href="#s2" transform="rotate(72)"/>
-<use xlink:href="#s2" transform="rotate(144)"/>
-<use xlink:href="#s2" transform="rotate(216)"/>
-<use xlink:href="#s2" transform="rotate(288)"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 510 300">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect width="510" height="300"/>
+  <rect class="st0" y="150" width="510" height="75"/>
+  <rect y="175" width="510" height="25"/>
+  <g>
+    <g id="s2">
+      <g id="s">
+        <g id="c">
+          <path id="t" class="st0" d="M191.3,97.5l-4.6,14.3,7.1,2.3"/>
+          <path id="t1" data-name="t" class="st0" d="M191.2,97.5l4.6,14.3-7.1,2.3"/>
+        </g>
+        <g id="c1" data-name="c">
+          <path id="t2" data-name="t" class="st0" d="M205.5,107.9h-15v7.5"/>
+          <path id="t3" data-name="t" class="st0" d="M205.5,107.9l-12.1,8.8-4.4-6.1"/>
+        </g>
+        <g id="c2" data-name="c">
+          <path id="t4" data-name="t" class="st0" d="M200.1,124.6l-4.6-14.3-7.1,2.3"/>
+          <path id="t5" data-name="t" class="st0" d="M200.1,124.6l-12.1-8.8,4.4-6.1"/>
+        </g>
+        <g id="c3" data-name="c">
+          <path id="t6" data-name="t" class="st0" d="M182.4,124.6l12.1-8.8-4.4-6.1"/>
+          <path id="t7" data-name="t" class="st0" d="M182.4,124.6l4.6-14.3,7.1,2.3"/>
+        </g>
+        <g id="c4" data-name="c">
+          <path id="t8" data-name="t" class="st0" d="M177,107.9l12.1,8.8,4.4-6.1"/>
+          <path id="t9" data-name="t" class="st0" d="M177,107.9h15v7.5"/>
+        </g>
+      </g>
+      <g id="s1" data-name="s">
+        <g id="c5" data-name="c">
+          <path id="t10" data-name="t" class="st0" d="M191.3,247.5l-4.6,14.3,7.1,2.3"/>
+          <path id="t11" data-name="t" class="st0" d="M191.2,247.5l4.6,14.3-7.1,2.3"/>
+        </g>
+        <g id="c6" data-name="c">
+          <path id="t12" data-name="t" class="st0" d="M205.5,257.9h-15v7.5"/>
+          <path id="t13" data-name="t" class="st0" d="M205.5,257.9l-12.1,8.8-4.4-6.1"/>
+        </g>
+        <g id="c7" data-name="c">
+          <path id="t14" data-name="t" class="st0" d="M200.1,274.6l-4.6-14.3-7.1,2.3"/>
+          <path id="t15" data-name="t" class="st0" d="M200.1,274.6l-12.1-8.8,4.4-6.1"/>
+        </g>
+        <g id="c8" data-name="c">
+          <path id="t16" data-name="t" class="st0" d="M182.4,274.6l12.1-8.8-4.4-6.1"/>
+          <path id="t17" data-name="t" class="st0" d="M182.4,274.6l4.6-14.3,7.1,2.3"/>
+        </g>
+        <g id="c9" data-name="c">
+          <path id="t18" data-name="t" class="st0" d="M177,257.9l12.1,8.8,4.4-6.1"/>
+          <path id="t19" data-name="t" class="st0" d="M177,257.9h15v7.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="s21" data-name="s2">
+      <g id="s2" data-name="s">
+        <g id="c10" data-name="c">
+          <path id="t20" data-name="t" d="M276.8,159.7h-15v7.5"/>
+          <path id="t21" data-name="t" d="M276.8,159.7l-12.1,8.8-4.4-6.1"/>
+        </g>
+        <g id="c11" data-name="c">
+          <path id="t22" data-name="t" d="M271.4,176.5l-4.6-14.3-7.1,2.3"/>
+          <path id="t23" data-name="t" d="M271.4,176.5l-12.1-8.8,4.4-6.1"/>
+        </g>
+        <g id="c12" data-name="c">
+          <path id="t24" data-name="t" d="M253.8,176.5l12.1-8.8-4.4-6.1"/>
+          <path id="t25" data-name="t" d="M253.8,176.5l4.6-14.3,7.1,2.3"/>
+        </g>
+        <g id="c13" data-name="c">
+          <path id="t26" data-name="t" d="M248.3,159.7l12.1,8.8,4.4-6.1"/>
+          <path id="t27" data-name="t" d="M248.3,159.7h15v7.5"/>
+        </g>
+        <g id="c14" data-name="c">
+          <path id="t28" data-name="t" d="M262.6,149.3l-4.6,14.3,7.1,2.3"/>
+          <path id="t29" data-name="t" d="M262.6,149.3l4.6,14.3-7.1,2.3"/>
+        </g>
+      </g>
+      <g id="s3" data-name="s">
+        <g id="c15" data-name="c">
+          <path id="t30" data-name="t" d="M134.2,206h-15v7.5"/>
+          <path id="t31" data-name="t" d="M134.2,206l-12.1,8.8-4.4-6.1"/>
+        </g>
+        <g id="c16" data-name="c">
+          <path id="t32" data-name="t" d="M128.7,222.8l-4.6-14.3-7.1,2.3"/>
+          <path id="t33" data-name="t" d="M128.7,222.8l-12.1-8.8,4.4-6.1"/>
+        </g>
+        <g id="c17" data-name="c">
+          <path id="t34" data-name="t" d="M111.1,222.8l12.1-8.8-4.4-6.1"/>
+          <path id="t35" data-name="t" d="M111.1,222.8l4.6-14.3,7.1,2.3"/>
+        </g>
+        <g id="c18" data-name="c">
+          <path id="t36" data-name="t" d="M105.7,206l12.1,8.8,4.4-6.1"/>
+          <path id="t37" data-name="t" d="M105.7,206h15v7.5"/>
+        </g>
+        <g id="c19" data-name="c">
+          <path id="t38" data-name="t" d="M119.9,195.7l-4.6,14.3,7.1,2.3"/>
+          <path id="t39" data-name="t" d="M119.9,195.7l4.6,14.3-7.1,2.3"/>
+        </g>
+      </g>
+    </g>
+    <g id="s22" data-name="s2">
+      <g id="s4" data-name="s">
+        <g id="c20" data-name="c">
+          <path id="t40" data-name="t" class="st0" d="M244.2,260.3l-4.6-14.3-7.1,2.3"/>
+          <path id="t41" data-name="t" class="st0" d="M244.2,260.3l-12.1-8.8,4.4-6.1"/>
+        </g>
+        <g id="c21" data-name="c">
+          <path id="t42" data-name="t" class="st0" d="M226.5,260.3l12.1-8.8-4.4-6.1"/>
+          <path id="t43" data-name="t" class="st0" d="M226.5,260.3l4.6-14.3,7.1,2.3"/>
+        </g>
+        <g id="c22" data-name="c">
+          <path id="t44" data-name="t" class="st0" d="M221.1,243.5l12.1,8.8,4.4-6.1"/>
+          <path id="t45" data-name="t" class="st0" d="M221.1,243.5h15v7.5"/>
+        </g>
+        <g id="c23" data-name="c">
+          <path id="t46" data-name="t" class="st0" d="M235.3,233.2l-4.6,14.3,7.1,2.3"/>
+          <path id="t47" data-name="t" class="st0" d="M235.3,233.2l4.6,14.3-7.1,2.3"/>
+        </g>
+        <g id="c24" data-name="c">
+          <path id="t48" data-name="t" class="st0" d="M249.6,243.5h-15v7.5"/>
+          <path id="t49" data-name="t" class="st0" d="M249.6,243.5l-12.1,8.8-4.4-6.1"/>
+        </g>
+      </g>
+      <g id="s5" data-name="s">
+        <g id="c25" data-name="c">
+          <path id="t50" data-name="t" class="st0" d="M156,139l-4.6-14.3-7.1,2.3"/>
+          <path id="t51" data-name="t" class="st0" d="M156,139l-12.1-8.8,4.4-6.1"/>
+        </g>
+        <g id="c26" data-name="c">
+          <path id="t52" data-name="t" class="st0" d="M138.3,139l12.1-8.8-4.4-6.1"/>
+          <path id="t53" data-name="t" class="st0" d="M138.3,139l4.6-14.3,7.1,2.3"/>
+        </g>
+        <g id="c27" data-name="c">
+          <path id="t54" data-name="t" class="st0" d="M132.9,122.2l12.1,8.8,4.4-6.1"/>
+          <path id="t55" data-name="t" class="st0" d="M132.9,122.2h15v7.5"/>
+        </g>
+        <g id="c28" data-name="c">
+          <path id="t56" data-name="t" class="st0" d="M147.2,111.8l-4.6,14.3,7.1,2.3"/>
+          <path id="t57" data-name="t" class="st0" d="M147.2,111.8l4.6,14.3-7.1,2.3"/>
+        </g>
+        <g id="c29" data-name="c">
+          <path id="t58" data-name="t" class="st0" d="M161.4,122.2h-15v7.5"/>
+          <path id="t59" data-name="t" class="st0" d="M161.4,122.2l-12.1,8.8-4.4-6.1"/>
+        </g>
+      </g>
+    </g>
+    <g id="s23" data-name="s2">
+      <g id="s6" data-name="s">
+        <g id="c30" data-name="c">
+          <path id="t60" data-name="t" class="st0" d="M138.3,260.3l12.1-8.8-4.4-6.1"/>
+          <path id="t61" data-name="t" class="st0" d="M138.3,260.3l4.6-14.3,7.1,2.3"/>
+        </g>
+        <g id="c31" data-name="c">
+          <path id="t62" data-name="t" class="st0" d="M132.9,243.5l12.1,8.8,4.4-6.1"/>
+          <path id="t63" data-name="t" class="st0" d="M132.9,243.5h15v7.5"/>
+        </g>
+        <g id="c32" data-name="c">
+          <path id="t64" data-name="t" class="st0" d="M147.2,233.2l-4.6,14.3,7.1,2.3"/>
+          <path id="t65" data-name="t" class="st0" d="M147.2,233.2l4.6,14.3-7.1,2.3"/>
+        </g>
+        <g id="c33" data-name="c">
+          <path id="t66" data-name="t" class="st0" d="M161.4,243.5h-15v7.5"/>
+          <path id="t67" data-name="t" class="st0" d="M161.4,243.5l-12.1,8.8-4.4-6.1"/>
+        </g>
+        <g id="c34" data-name="c">
+          <path id="t68" data-name="t" class="st0" d="M156,260.3l-4.6-14.3-7.1,2.3"/>
+          <path id="t69" data-name="t" class="st0" d="M156,260.3l-12.1-8.8,4.4-6.1"/>
+        </g>
+      </g>
+      <g id="s7" data-name="s">
+        <g id="c35" data-name="c">
+          <path id="t70" data-name="t" class="st0" d="M226.5,139l12.1-8.8-4.4-6.1"/>
+          <path id="t71" data-name="t" class="st0" d="M226.5,139l4.6-14.3,7.1,2.3"/>
+        </g>
+        <g id="c36" data-name="c">
+          <path id="t72" data-name="t" class="st0" d="M221.1,122.2l12.1,8.8,4.4-6.1"/>
+          <path id="t73" data-name="t" class="st0" d="M221.1,122.2h15v7.5"/>
+        </g>
+        <g id="c37" data-name="c">
+          <path id="t74" data-name="t" class="st0" d="M235.3,111.8l-4.6,14.3,7.1,2.3"/>
+          <path id="t75" data-name="t" class="st0" d="M235.3,111.8l4.6,14.3-7.1,2.3"/>
+        </g>
+        <g id="c38" data-name="c">
+          <path id="t76" data-name="t" class="st0" d="M249.6,122.2h-15v7.5"/>
+          <path id="t77" data-name="t" class="st0" d="M249.6,122.2l-12.1,8.8-4.4-6.1"/>
+        </g>
+        <g id="c39" data-name="c">
+          <path id="t78" data-name="t" class="st0" d="M244.2,139l-4.6-14.3-7.1,2.3"/>
+          <path id="t79" data-name="t" class="st0" d="M244.2,139l-12.1-8.8,4.4-6.1"/>
+        </g>
+      </g>
+    </g>
+    <g id="s24" data-name="s2">
+      <g id="s8" data-name="s">
+        <g id="c40" data-name="c">
+          <path id="t80" data-name="t" d="M105.7,159.7l12.1,8.8,4.4-6.1"/>
+          <path id="t81" data-name="t" d="M105.7,159.7h15v7.5"/>
+        </g>
+        <g id="c41" data-name="c">
+          <path id="t82" data-name="t" d="M119.9,149.3l-4.6,14.3,7.1,2.3"/>
+          <path id="t83" data-name="t" d="M119.9,149.3l4.6,14.3-7.1,2.3"/>
+        </g>
+        <g id="c42" data-name="c">
+          <path id="t84" data-name="t" d="M134.2,159.7h-15v7.5"/>
+          <path id="t85" data-name="t" d="M134.2,159.7l-12.1,8.8-4.4-6.1"/>
+        </g>
+        <g id="c43" data-name="c">
+          <path id="t86" data-name="t" d="M128.7,176.5l-4.6-14.3-7.1,2.3"/>
+          <path id="t87" data-name="t" d="M128.7,176.5l-12.1-8.8,4.4-6.1"/>
+        </g>
+        <g id="c44" data-name="c">
+          <path id="t88" data-name="t" d="M111.1,176.5l12.1-8.8-4.4-6.1"/>
+          <path id="t89" data-name="t" d="M111.1,176.5l4.6-14.3,7.1,2.3"/>
+        </g>
+      </g>
+      <g id="s9" data-name="s">
+        <g id="c45" data-name="c">
+          <path id="t90" data-name="t" d="M248.3,206l12.1,8.8,4.4-6.1"/>
+          <path id="t91" data-name="t" d="M248.3,206h15v7.5"/>
+        </g>
+        <g id="c46" data-name="c">
+          <path id="t92" data-name="t" d="M262.6,195.7l-4.6,14.3,7.1,2.3"/>
+          <path id="t93" data-name="t" d="M262.6,195.7l4.6,14.3-7.1,2.3"/>
+        </g>
+        <g id="c47" data-name="c">
+          <path id="t94" data-name="t" d="M276.8,206h-15v7.5"/>
+          <path id="t95" data-name="t" d="M276.8,206l-12.1,8.8-4.4-6.1"/>
+        </g>
+        <g id="c48" data-name="c">
+          <path id="t96" data-name="t" d="M271.4,222.8l-4.6-14.3-7.1,2.3"/>
+          <path id="t97" data-name="t" d="M271.4,222.8l-12.1-8.8,4.4-6.1"/>
+        </g>
+        <g id="c49" data-name="c">
+          <path id="t98" data-name="t" d="M253.8,222.8l12.1-8.8-4.4-6.1"/>
+          <path id="t99" data-name="t" d="M253.8,222.8l4.6-14.3,7.1,2.3"/>
+        </g>
+      </g>
+    </g>
+  </g>
 </svg>

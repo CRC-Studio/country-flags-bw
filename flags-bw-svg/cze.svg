@@ -1,5 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
-<rect width="900" height="600" fill="#d7141a"/>
-<rect width="900" height="300" fill="#fff"/>
-<path d="M 450,300 0,0 V 600 z" fill="#11457e"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 900 600">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect width="900" height="600"/>
+  <rect class="st0" width="900" height="300"/>
+  <path d="M450,300L0,0v600l450-300Z"/>
 </svg>

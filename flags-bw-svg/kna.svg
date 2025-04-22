@@ -1,1 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 750 500"><defs><clipPath id="a"><path fill="none" d="M0 0h750v500H0z"/></clipPath></defs><g clip-path="url(#a)"><path d="M750 0H0v500" fill="#009e49"/><path d="M0 500h750V0" fill="#ce1126"/><path d="M0 500L750 0" stroke="#fcd116" stroke-width="210"/><path d="M0 500L750 0" stroke="#000" stroke-width="150"/><g id="d" transform="rotate(-33.69 514.716 -777.095)" fill="#fff"><g id="c"><path id="b" d="M0-70V0h35" transform="rotate(18 0 -70)"/><use xlink:href="#b" transform="scale(-1 1)"/></g><use xlink:href="#c" transform="rotate(72)"/><use xlink:href="#c" transform="rotate(144)"/><use xlink:href="#c" transform="rotate(216)"/><use xlink:href="#c" transform="rotate(288)"/></g><use xlink:href="#d" transform="translate(-285 190)"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 750 500">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: none;
+      }
+
+      .st2 {
+        stroke: #000;
+        stroke-width: 150px;
+      }
+
+      .st3 {
+        stroke: #fff;
+        stroke-width: 210px;
+      }
+
+      .st4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st1" width="750" height="500"/>
+    </clipPath>
+  </defs>
+  <g class="st4">
+    <g>
+      <path d="M750,0H0v500"/>
+      <path d="M0,500h750V0"/>
+      <path class="st3" d="M0,500L750,0"/>
+      <path class="st2" d="M0,500L750,0"/>
+      <g id="d">
+        <g id="c">
+          <path id="b" class="st0" d="M478.7,96.8l18.9,67.4,33.7-9.5"/>
+          <path id="b1" data-name="b" class="st0" d="M478.7,96.8l54.9,43.4-21.7,27.5"/>
+        </g>
+        <g id="c1" data-name="c">
+          <path id="b2" data-name="b" class="st0" d="M560.9,100.1l-58.2,38.8,19.4,29.1"/>
+          <path id="b3" data-name="b" class="st0" d="M560.9,100.1l-24.3,65.6-32.8-12.1"/>
+        </g>
+        <g id="c2" data-name="c">
+          <path id="b4" data-name="b" class="st0" d="M583.1,179.3l-54.9-43.4-21.7,27.5"/>
+          <path id="b5" data-name="b" class="st0" d="M583.1,179.3l-69.9-2.8,1.4-35"/>
+        </g>
+        <g id="c3" data-name="c">
+          <path id="b6" data-name="b" class="st0" d="M514.7,224.9l24.3-65.6-32.8-12.1"/>
+          <path id="b7" data-name="b" class="st0" d="M514.7,224.9l-18.9-67.4,33.7-9.5"/>
+        </g>
+        <g id="c4" data-name="c">
+          <path id="b8" data-name="b" class="st0" d="M450.1,173.9l69.9,2.8,1.4-35"/>
+          <path id="b9" data-name="b" class="st0" d="M450.1,173.9l58.2-38.8,19.4,29.1"/>
+        </g>
+      </g>
+      <g id="d1" data-name="d">
+        <g id="c5" data-name="c">
+          <path id="b10" data-name="b" class="st0" d="M193.7,286.8l18.9,67.4,33.7-9.5"/>
+          <path id="b11" data-name="b" class="st0" d="M193.7,286.8l54.9,43.4-21.7,27.5"/>
+        </g>
+        <g id="c6" data-name="c">
+          <path id="b12" data-name="b" class="st0" d="M275.9,290.1l-58.2,38.8,19.4,29.1"/>
+          <path id="b13" data-name="b" class="st0" d="M275.9,290.1l-24.3,65.6-32.8-12.1"/>
+        </g>
+        <g id="c7" data-name="c">
+          <path id="b14" data-name="b" class="st0" d="M298.1,369.3l-54.9-43.4-21.7,27.5"/>
+          <path id="b15" data-name="b" class="st0" d="M298.1,369.3l-69.9-2.8,1.4-35"/>
+        </g>
+        <g id="c8" data-name="c">
+          <path id="b16" data-name="b" class="st0" d="M229.7,414.9l24.3-65.6-32.8-12.1"/>
+          <path id="b17" data-name="b" class="st0" d="M229.7,414.9l-18.9-67.4,33.7-9.5"/>
+        </g>
+        <g id="c9" data-name="c">
+          <path id="b18" data-name="b" class="st0" d="M165.1,363.9l69.9,2.8,1.4-35"/>
+          <path id="b19" data-name="b" class="st0" d="M165.1,363.9l58.2-38.8,19.4,29.1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

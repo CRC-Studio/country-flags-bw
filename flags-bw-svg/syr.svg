@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600"><path d="M0 0h900v600H0z"/><path d="M0 0h900v400H0z" fill="#fff"/><path d="M0 0h900v200H0z" fill="#ce1126"/><path d="M251.264 375l48.738-150 48.738 150-127.6-92.705h157.72M551.264 375l48.738-150 48.738 150-127.6-92.705h157.72" fill="#007a3d"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 900 600">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path d="M0,0h900v600H0V0Z"/>
+  <path class="st0" d="M0,0h900v400H0V0Z"/>
+  <path d="M0,0h900v200H0V0Z"/>
+  <g>
+    <polygon points="318.6 282.3 300 225 281.4 282.3 221.1 282.3 269.9 317.7 251.3 375 300 339.6 348.7 375 330.1 317.7 378.9 282.3 318.6 282.3"/>
+    <polygon points="630.1 317.7 678.9 282.3 618.6 282.3 600 225 581.4 282.3 521.1 282.3 569.9 317.7 551.3 375 600 339.6 648.7 375 630.1 317.7"/>
+  </g>
+</svg>
